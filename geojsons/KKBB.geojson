@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "KissKissBankBank",
+        "Address": "247 Manchester Ln",
+        "Review": "Good coffee. Poor interest.",
+        "Contributor": "KD R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96573954820633,
+          -37.81586334364899
+        ]
+      }
+    }
+  ]
+}
